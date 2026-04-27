@@ -2,13 +2,13 @@
 name = "your-rust-lib"
 version = "0.1.0"
 edition = "2024"
-repository = "git@github.com:codigouranio/your-rust-lib.git"
+repository = "https://github.com/codigouranio/your-rust-lib.git"
 keywords = ["cli", "test"]
 categories = ["tool"]
 
 description = "Test Library"
 license = "MIT"
-authors = ["José Blanco <blancosj@gmail.com>"]
+authors = ["José Blanco <codigouranio@gmail.com>"]
 
 readme = "README.md"
 

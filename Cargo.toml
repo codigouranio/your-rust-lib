@@ -1,0 +1,7 @@
+[package]
+name = "your-rust-lib"
+version = "0.1.0"
+edition = "2024"
+repository = "git@github.com:codigouranio/your-rust-lib.git"
+
+[dependencies]
